@@ -1,0 +1,20 @@
+{
+  "name": "reddit-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reddit Scraper: Scrape public Reddit posts, comments, subreddits and search results with scores, authors and dates. No login or API key needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "reddit"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

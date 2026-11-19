@@ -1,0 +1,16 @@
+{
+  "queries": [
+    "Cheesecake"
+  ],
+  "maxPosts": 10,
+  "maxComments": 20,
+  "maxCommunities": 2,
+  "maxUsers": 2,
+  "maxSearchComments": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
